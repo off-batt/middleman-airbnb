@@ -1,0 +1,77 @@
+off-batt:
+  name: "Ophelie's home"
+  description: "Best place in Arts & Métiers"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 3
+  about: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  beds: 1
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Bead"
+  bedrooms: 1
+  property_type: "Apartment"
+  room_type: "Entire home"
+  kitchen: false
+  wifi: false
+  tv: true
+  welcome_drink: true
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  about: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  beds: 1
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Bead"
+  bedrooms: 1
+  property_type: "Apartment"
+  room_type: "Entire home"
+  kitchen: true
+  wifi: true
+  tv: true
+  welcome_drink: true
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  about: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  beds: 1
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Bead"
+  bedrooms: 1
+  property_type: "Apartment"
+  room_type: "Entire home"
+  kitchen: true
+  wifi: true
+  tv: true
+  welcome_drink: true
+
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  about: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  beds: 1
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "Real Bead"
+  bedrooms: 1
+  property_type: "Apartment"
+  room_type: "Entire home"
+  kitchen: true
+  wifi: true
+  tv: true
+  welcome_drink: true
